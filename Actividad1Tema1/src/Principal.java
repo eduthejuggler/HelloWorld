@@ -10,7 +10,7 @@ public class Principal {
 
 	public static void main(String args[]) throws IOException, InterruptedException {
 		
-		//Creo las variables que utilizaré en el main.
+		//Creo las variables que utilizaré en el main tururu
 		boolean ok = true;
 		int num1, num2;
 		String suma;
